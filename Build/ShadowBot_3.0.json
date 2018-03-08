@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ShadowBot_3.0.data.unityweb",
+"asmCodeUrl": "ShadowBot_3.0.asm.code.unityweb",
+"asmMemoryUrl": "ShadowBot_3.0.asm.memory.unityweb",
+"asmFrameworkUrl": "ShadowBot_3.0.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
